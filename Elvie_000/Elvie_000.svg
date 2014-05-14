@@ -273,9 +273,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.3052778"
      inkscape:cx="340.33787"
-     inkscape:cy="277.29918"
+     inkscape:cy="275.76694"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:window-width="1148"
      inkscape:window-height="1004"
@@ -478,68 +478,68 @@ Elvie (in fourth image, dressed as a magician): Let's not mention my Mandrake da
     <image
        sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie/Elvie_000/Elvie_000_Panel_5.png"
        xlink:href="Elvie_000_Panel_5.png"
-       y="779.56006"
-       x="203.25443"
-       id="image3174"
-       height="125.42508"
+       clip-path="url(#clipPath3142)"
        width="77.653778"
-       clip-path="url(#clipPath3142)" />
+       height="125.42508"
+       id="image3174"
+       x="203.25443"
+       y="779.56006" />
     <image
        sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie/Elvie_000/Elvie_000_Panel_6.png"
        xlink:href="Elvie_000_Panel_6.png"
-       y="777.08118"
-       x="68.215591"
-       id="image3158"
-       height="130.62933"
-       width="71.252365"
+       transform="translate(-6,126.54173)"
        clip-path="url(#clipPath3161)"
-       transform="translate(-6,126.54173)" />
+       width="71.252365"
+       height="130.62933"
+       id="image3158"
+       x="68.215591"
+       y="777.08118" />
     <image
        sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie/Elvie_000/Elvie_000_Panel_2.png"
        xlink:href="Elvie_000_Panel_2.png"
-       y="544.41797"
-       x="204.76987"
-       id="image3142"
-       height="262.189"
+       clip-path="url(#clipPath3141)"
        width="268.84198"
-       clip-path="url(#clipPath3141)" />
+       height="262.189"
+       id="image3142"
+       x="204.76987"
+       y="544.41797" />
     <image
        sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie/Elvie_000/Elvie_000_Panel_1.png"
        xlink:href="Elvie_000_Panel_1.png"
-       y="556.90118"
-       x="92.252007"
-       id="image3087"
-       height="165.81044"
+       clip-path="none"
        width="61.420635"
-       clip-path="none" />
+       height="165.81044"
+       id="image3087"
+       x="92.252007"
+       y="556.90118" />
     <image
        sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie/Elvie_000/Elvie_000_Panel_3.png"
        xlink:href="Elvie_000_Panel_3.png"
-       y="487.58612"
-       x="431.61655"
-       id="image3109"
-       height="328.96329"
+       clip-path="url(#clipPath4043)"
        width="222.73021"
-       clip-path="url(#clipPath4043)" />
+       height="328.96329"
+       id="image3109"
+       x="431.61655"
+       y="487.58612" />
     <image
        sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie/Elvie_000/Elvie_000_Panel_4.png"
        xlink:href="Elvie_000_Panel_4.png"
-       y="905.59985"
-       x="63.887619"
-       id="image3102"
-       height="156.87302"
-       width="76.425316"
+       transform="matrix(0.90602727,0,0,0.90602727,10.003694,-39.896817)"
        clip-path="url(#clipPath3125)"
-       transform="matrix(0.90602727,0,0,0.90602727,10.003694,-39.896817)" />
+       width="76.425316"
+       height="156.87302"
+       id="image3102"
+       x="63.887619"
+       y="905.59985" />
     <image
        sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie/Elvie_000/Elvie_000_Panel_7.png"
        xlink:href="Elvie_000_Panel_7.png"
-       y="900.71014"
-       x="-321.9447"
-       id="image3189"
-       height="140.18645"
+       transform="scale(-1,1)"
        width="140.18645"
-       transform="scale(-1,1)" />
+       height="140.18645"
+       id="image3189"
+       x="-321.9447"
+       y="900.71014" />
     <g
        id="g4192"
        transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,274.66734,-88.147051)">
@@ -553,12 +553,12 @@ Elvie (in fourth image, dressed as a magician): Let's not mention my Mandrake da
       <image
          sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie/Elvie_000/Elvie_000_Panel_8.png"
          xlink:href="Elvie_000_Panel_8.png"
-         width="128.23904"
-         height="181.39621"
-         id="image4125-3"
-         x="405.01776"
+         style="display:inline"
          y="831.10748"
-         style="display:inline" />
+         x="405.01776"
+         id="image4125-3"
+         height="181.39621"
+         width="128.23904" />
     </g>
     <g
        id="g4266"
@@ -625,341 +625,360 @@ Elvie (in fourth image, dressed as a magician): Let's not mention my Mandrake da
      transform="translate(0,-485.4331)"
      style="display:inline">
     <g
-       id="g4087"
-       clip-path="url(#clipPath4095)">
-      <path
-         id="path4950"
-         transform="translate(0,485.4331)"
-         d="M 303.625 489.53125 C 287.29014 489.53125 273.28657 497.04514 267.28125 507.78125 L 248 495.78125 L 264.375 516.4375 L 264.375 516.46875 C 264.24294 517.46611 264.15625 518.47622 264.15625 519.5 C 264.15625 536.05099 281.81987 549.46875 303.625 549.46875 C 325.43013 549.46875 343.125 536.05099 343.125 519.5 C 343.125 502.94901 325.43013 489.53125 303.625 489.53125 z "
-         clip-path="none"
-         style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter3233);enable-background:accumulate" />
-      <text
-         sodipodi:linespacing="100%"
-         id="text4952"
-         y="990.57526"
-         x="297.849"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Komika Text Kaps;-inkscape-font-specification:Komika Text Kaps"
-         xml:space="preserve"><tspan
+       inkscape:groupmode="layer"
+       id="layer5"
+       inkscape:label="en-GB"
+       style="display:inline">
+      <g
+         style="display:inline"
+         id="g4087"
+         clip-path="url(#clipPath4095)">
+        <path
+           id="path4950"
+           transform="translate(0,485.4331)"
+           d="m 303.625,489.53125 c -16.33486,0 -30.33843,7.51389 -36.34375,18.25 l -19.28125,-12 16.375,20.65625 0,0.0312 c -0.13206,0.99736 -0.21875,2.00747 -0.21875,3.03125 0,16.55099 17.66362,29.96875 39.46875,29.96875 21.80513,0 39.5,-13.41776 39.5,-29.96875 0,-16.55099 -17.69487,-29.96875 -39.5,-29.96875 z"
+           clip-path="none"
+           style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter3233);enable-background:accumulate"
+           inkscape:connector-curvature="0" />
+        <text
+           sodipodi:linespacing="100%"
+           id="text4952"
            y="990.57526"
            x="297.849"
-           sodipodi:role="line"
-           style="font-size:10px"
-           id="tspan4954">let's</tspan><tspan
-           y="1000.5753"
-           x="297.849"
-           sodipodi:role="line"
-           style="font-size:10px"
-           id="tspan4956">not mention</tspan><tspan
-           y="1010.5753"
-           x="297.849"
-           sodipodi:role="line"
-           style="font-size:10px"
-           id="tspan4958">my mandrake</tspan><tspan
-           y="1020.5753"
-           x="297.849"
-           sodipodi:role="line"
-           style="font-size:10px"
-           id="tspan4960">days</tspan></text>
-    </g>
-    <path
-       transform="translate(0,768.89763)"
-       style="display:inline;color:#000000;fill:url(#linearGradient4682);fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;overflow:visible;enable-background:accumulate"
-       d="m 39.875,-263.27703 c -11.08,0 -20,8.92 -20,20 l 0,20.25 190.625,0 0,-20.25 c 0,-11.08 -8.92,-20 -20,-20 l -9.90625,0 -130.8125,0 z"
-       id="path3903"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ssccssccs" />
-    <path
-       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter3233);enable-background:accumulate"
-       d="M 56.78125 68.71875 C 44.827116 68.71875 35.15625 74.989444 35.15625 82.75 C 35.15625 90.510556 44.827116 96.8125 56.78125 96.8125 C 61.067676 96.8125 65.044278 95.989217 68.40625 94.59375 L 92.90625 100.71875 L 74.71875 90.65625 C 77.071761 88.407692 78.4375 85.673232 78.4375 82.75 C 78.4375 74.989444 68.735384 68.71875 56.78125 68.71875 z "
-       transform="translate(0,485.4331)"
-       id="path4832" />
-    <path
-       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter3233);enable-background:accumulate"
-       clip-path="none"
-       d="M 266.65625 65.0625 C 245.60229 65.0625 228.53125 80.770348 228.53125 100.15625 C 228.53125 119.54215 245.60229 135.28125 266.65625 135.28125 C 282.72824 135.28125 296.4556 126.11399 302.0625 113.15625 L 335.84375 115.46875 L 304.59375 103.84375 C 304.73073 102.63371 304.78125 101.39967 304.78125 100.15625 C 304.78125 80.770348 287.71021 65.0625 266.65625 65.0625 z "
-       transform="translate(0,485.4331)"
-       id="path4770" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text3092"
-       y="1047.5664"
-       x="569.07684"
-       style="display:inline;font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;overflow:visible;enable-background:accumulate;font-family:Komika Axis;-inkscape-font-specification:Komika Text Kaps"
-       xml:space="preserve"><tspan
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;stroke:none;font-family:Komika Text Kaps;-inkscape-font-specification:Komika Text Kaps"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Komika Text Kaps;-inkscape-font-specification:Komika Text Kaps"
+           xml:space="preserve"><tspan
+             y="990.57526"
+             x="297.849"
+             sodipodi:role="line"
+             style="font-size:10px"
+             id="tspan4954">let's</tspan><tspan
+             y="1000.5753"
+             x="297.849"
+             sodipodi:role="line"
+             style="font-size:10px"
+             id="tspan4956">not mention</tspan><tspan
+             y="1010.5753"
+             x="297.849"
+             sodipodi:role="line"
+             style="font-size:10px"
+             id="tspan4958">my mandrake</tspan><tspan
+             y="1020.5753"
+             x="297.849"
+             sodipodi:role="line"
+             style="font-size:10px"
+             id="tspan4960">days</tspan></text>
+      </g>
+      <path
+         transform="translate(0,768.89763)"
+         style="color:#000000;fill:url(#linearGradient4682);fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 39.875,-263.27703 c -11.08,0 -20,8.92 -20,20 l 0,20.25 190.625,0 0,-20.25 c 0,-11.08 -8.92,-20 -20,-20 l -9.90625,0 -130.8125,0 z"
+         id="path3903"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ssccssccs" />
+      <path
+         style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter3233);enable-background:accumulate"
+         d="m 56.78125,68.71875 c -11.954134,0 -21.625,6.270694 -21.625,14.03125 0,7.760556 9.670866,14.0625 21.625,14.0625 4.286426,0 8.263028,-0.823283 11.625,-2.21875 l 24.5,6.125 -18.1875,-10.0625 c 2.353011,-2.248558 3.71875,-4.983018 3.71875,-7.90625 0,-7.760556 -9.702116,-14.03125 -21.65625,-14.03125 z"
+         id="path4832"
+         transform="translate(0,485.4331)"
+         inkscape:connector-curvature="0" />
+      <path
+         style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter3233);enable-background:accumulate"
+         clip-path="none"
+         d="m 266.65625,65.0625 c -21.05396,0 -38.125,15.707848 -38.125,35.09375 0,19.3859 17.07104,35.125 38.125,35.125 16.07199,0 29.79935,-9.16726 35.40625,-22.125 l 33.78125,2.3125 -31.25,-11.625 c 0.13698,-1.21004 0.1875,-2.44408 0.1875,-3.6875 0,-19.385902 -17.07104,-35.09375 -38.125,-35.09375 z"
+         id="path4770"
+         transform="translate(0,485.4331)"
+         inkscape:connector-curvature="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3092"
          y="1047.5664"
          x="569.07684"
-         id="tspan3094"
-         sodipodi:role="line"
-         dx="0 0.75761443 0.75761443">WWW.PEPPERTOP.COM</tspan></text>
-    <text
-       xml:space="preserve"
-       style="display:inline;font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;overflow:visible;enable-background:accumulate;font-family:Komika Axis;-inkscape-font-specification:Komika Axis"
-       x="381.07681"
-       y="1047.5664"
-       id="text3096"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3098"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Komika Axis;-inkscape-font-specification:Komika Text Kaps"
+         xml:space="preserve"><tspan
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;stroke:none;font-family:Komika Text Kaps;-inkscape-font-specification:Komika Text Kaps"
+           y="1047.5664"
+           x="569.07684"
+           id="tspan3094"
+           sodipodi:role="line"
+           dx="0 0.75761443 0.75761443">WWW.PEPPERTOP.COM</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Komika Axis;-inkscape-font-specification:Komika Axis"
          x="381.07681"
          y="1047.5664"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;stroke:none;font-family:Komika Text Kaps;-inkscape-font-specification:Komika Text Kaps">CC-BY-SA</tspan></text>
-    <path
-       style="display:inline;color:#000000;fill:#ffff00;stroke:#000000;stroke-width:1.50000000000000000;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;overflow:visible;enable-background:accumulate"
-       d="M 340.03125 530.15625 C 340.42122 541.44893 349.60892 550.4375 361 550.4375 L 616.03125 550.4375 C 627.42233 550.4375 636.64128 541.44893 637.03125 530.15625 L 340.03125 530.15625 z "
-       id="rect4719"
-       transform="translate(0,485.4331)" />
-    <path
-       style="display:inline;color:#000000;fill:#ffff00;stroke:#000000;stroke-width:1.50000000000000000;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;overflow:visible;enable-background:accumulate"
-       d="M 41 250.4375 C 29.359388 250.4375 20 259.79689 20 271.4375 L 20 291.21875 L 330 291.21875 L 330 271.4375 C 330 259.79689 320.64061 250.4375 309 250.4375 L 41 250.4375 z "
-       id="rect4711"
-       transform="translate(0,485.4331)" />
-    <path
-       style="display:inline;color:#000000;fill:#ffff00;stroke:#000000;stroke-width:1.50000000000000000;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;overflow:visible;enable-background:accumulate"
-       d="M 450 250.1875 L 450 261.09375 C 450 272.7321 459.36165 282.09375 471 282.09375 L 616.0625 282.09375 C 627.70085 282.09375 637.0625 272.7321 637.0625 261.09375 L 637.0625 250.1875 L 450 250.1875 z "
-       id="rect4702"
-       transform="translate(0,485.4331)" />
-    <path
-       style="display:inline;color:#000000;fill:#ffff00;stroke:#000000;stroke-width:1.50000000000000000;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;overflow:visible;enable-background:accumulate"
-       d="M 361 290.4375 C 349.35939 290.4375 340 299.79689 340 311.4375 L 340 340.25 L 637.0625 340.25 L 637.0625 311.4375 C 637.0625 299.79689 627.67186 290.4375 616.03125 290.4375 L 361 290.4375 z "
-       id="rect3869"
-       transform="translate(0,485.4331)" />
-    <path
-       style="display:inline;color:#000000;fill:#ffff00;stroke:#000000;stroke-width:1.50000000000000000;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;overflow:visible;enable-background:accumulate"
-       d="M 20 541.1875 L 20 544.84375 C 20 556.48436 29.359388 565.84375 41 565.84375 L 309 565.84375 C 320.64061 565.84375 330 556.48436 330 544.84375 L 330 541.1875 L 20 541.1875 z "
-       id="rect3867"
-       transform="translate(0,485.4331)" />
-    <g
-       id="g4074"
-       clip-path="url(#clipPath4080)">
+         id="text3096"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3098"
+           x="381.07681"
+           y="1047.5664"
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;stroke:none;font-family:Komika Text Kaps;-inkscape-font-specification:Komika Text Kaps">CC-BY-SA</tspan></text>
       <path
-         id="path4824"
+         style="color:#000000;fill:#ffff00;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 340.03125,530.15625 c 0.38997,11.29268 9.57767,20.28125 20.96875,20.28125 l 255.03125,0 c 11.39108,0 20.61003,-8.98857 21,-20.28125 l -297,0 z"
+         id="rect4719"
          transform="translate(0,485.4331)"
-         d="M 610.6875 49.75 C 589.91572 49.75 573.09375 60.773326 573.09375 74.34375 C 573.09375 87.620023 589.19495 98.4123 609.34375 98.875 L 599.875 119.90625 L 620 98.125 C 636.26953 95.418787 648.3125 85.815214 648.3125 74.34375 C 648.3125 60.773326 631.45928 49.75 610.6875 49.75 z "
-         style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter3233);enable-background:accumulate" />
-      <text
-         sodipodi:linespacing="100%"
-         id="text4826"
-         y="559.54022"
-         x="609.01184"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Komika Text Kaps;-inkscape-font-specification:Komika Text Kaps"
-         xml:space="preserve"><tspan
+         inkscape:connector-curvature="0" />
+      <path
+         style="color:#000000;fill:#ffff00;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 41,250.4375 c -11.640612,0 -21,9.35939 -21,21 l 0,19.78125 310,0 0,-19.78125 c 0,-11.64061 -9.35939,-21 -21,-21 l -268,0 z"
+         id="rect4711"
+         transform="translate(0,485.4331)"
+         inkscape:connector-curvature="0" />
+      <path
+         style="color:#000000;fill:#ffff00;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 450,250.1875 0,10.90625 c 0,11.63835 9.36165,21 21,21 l 145.0625,0 c 11.63835,0 21,-9.36165 21,-21 l 0,-10.90625 -187.0625,0 z"
+         id="rect4702"
+         transform="translate(0,485.4331)"
+         inkscape:connector-curvature="0" />
+      <path
+         style="color:#000000;fill:#ffff00;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 361,290.4375 c -11.64061,0 -21,9.35939 -21,21 l 0,28.8125 297.0625,0 0,-28.8125 c 0,-11.64061 -9.39064,-21 -21.03125,-21 l -255.03125,0 z"
+         id="rect3869"
+         transform="translate(0,485.4331)"
+         inkscape:connector-curvature="0" />
+      <path
+         style="color:#000000;fill:#ffff00;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 20,541.1875 0,3.65625 c 0,11.64061 9.359388,21 21,21 l 268,0 c 11.64061,0 21,-9.35939 21,-21 l 0,-3.65625 -310,0 z"
+         id="rect3867"
+         transform="translate(0,485.4331)"
+         inkscape:connector-curvature="0" />
+      <g
+         style="display:inline"
+         id="g4074"
+         clip-path="url(#clipPath4080)">
+        <path
+           id="path4824"
+           transform="translate(0,485.4331)"
+           d="m 610.6875,49.75 c -20.77178,0 -37.59375,11.023326 -37.59375,24.59375 0,13.276273 16.1012,24.06855 36.25,24.53125 L 599.875,119.90625 620,98.125 c 16.26953,-2.706213 28.3125,-12.309786 28.3125,-23.78125 0,-13.570424 -16.85322,-24.59375 -37.625,-24.59375 z"
+           style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter3233);enable-background:accumulate"
+           inkscape:connector-curvature="0" />
+        <text
+           sodipodi:linespacing="100%"
+           id="text4826"
            y="559.54022"
            x="609.01184"
-           id="tspan4828"
-           sodipodi:role="line"
-           style="font-size:12px">I know</tspan><tspan
-           y="571.54022"
-           x="609.01184"
-           sodipodi:role="line"
-           id="tspan4830"
-           style="font-size:12px">script-fu</tspan></text>
-    </g>
-    <path
-       style="display:inline;color:#000000;fill:#ffff00;stroke:#000000;stroke-width:1.50000000000000000;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;overflow:visible;enable-background:accumulate"
-       d="M 471 20.4375 C 459.36165 20.4375 450 29.799148 450 41.4375 L 450 60.4375 L 637.0625 60.4375 L 637.0625 41.4375 C 637.0625 29.799148 627.70085 20.4375 616.0625 20.4375 L 471 20.4375 z "
-       id="rect3865"
-       transform="translate(0,485.4331)" />
-    <path
-       style="display:inline;color:#000000;fill:#ffff00;stroke:#000000;stroke-width:1.50000000000000000;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;overflow:visible;enable-background:accumulate;fill-opacity:1"
-       d="M 241.375 20.21875 C 229.73439 20.21875 220.375 29.578138 220.375 41.21875 L 220.375 60.4375 L 440 60.4375 L 440 41.21875 C 440 29.578138 430.64061 20.21875 419 20.21875 L 361 20.21875 L 241.375 20.21875 z "
-       id="path3863"
-       transform="translate(0,485.4331)" />
-    <path
-       style="display:inline;color:#000000;fill:none;stroke:url(#linearGradient4690);stroke-width:1.50000000000000000;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;overflow:visible;enable-background:accumulate"
-       d="m 67.875,60.4375 142.625,0 0,-20.25 c 0,-11.08 -8.92,-20 -20,-20 l -80.71875,0"
-       id="path3861"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccssc"
-       transform="translate(0,485.4331)" />
-    <text
-       transform="translate(0,768.89763)"
-       sodipodi:linespacing="125%"
-       id="text3450"
-       y="-236.92212"
-       x="93.681244"
-       style="display:inline;font-size:16.44807434000000157px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#c92434;fill-opacity:1;stroke:none;stroke-width:3;marker:none;visibility:visible;overflow:visible;enable-background:accumulate;font-family:Komika Text Kaps;-inkscape-font-specification:Komika Text Kaps"
-       xml:space="preserve"><tspan
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Komika Text Kaps;-inkscape-font-specification:Komika Text Kaps"
+           xml:space="preserve"><tspan
+             y="559.54022"
+             x="609.01184"
+             id="tspan4828"
+             sodipodi:role="line"
+             style="font-size:12px">I know</tspan><tspan
+             y="571.54022"
+             x="609.01184"
+             sodipodi:role="line"
+             id="tspan4830"
+             style="font-size:12px">script-fu</tspan></text>
+      </g>
+      <path
+         style="color:#000000;fill:#ffff00;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 471,20.4375 c -11.63835,0 -21,9.361648 -21,21 l 0,19 187.0625,0 0,-19 c 0,-11.638352 -9.36165,-21 -21,-21 l -145.0625,0 z"
+         id="rect3865"
+         transform="translate(0,485.4331)"
+         inkscape:connector-curvature="0" />
+      <path
+         style="color:#000000;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 241.375,20.21875 c -11.64061,0 -21,9.359388 -21,21 l 0,19.21875 219.625,0 0,-19.21875 c 0,-11.640612 -9.35939,-21 -21,-21 l -58,0 -119.625,0 z"
+         id="path3863"
+         transform="translate(0,485.4331)"
+         inkscape:connector-curvature="0" />
+      <path
+         style="color:#000000;fill:none;stroke:url(#linearGradient4690);stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 67.875,60.4375 142.625,0 0,-20.25 c 0,-11.08 -8.92,-20 -20,-20 l -80.71875,0"
+         id="path3861"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccssc"
+         transform="translate(0,485.4331)" />
+      <text
+         transform="translate(0,768.89763)"
+         sodipodi:linespacing="125%"
+         id="text3450"
          y="-236.92212"
          x="93.681244"
-         id="tspan3452"
-         sodipodi:role="line"
-         style="font-size:21.14752579px;fill:#c92434;fill-opacity:1"><tspan
-           style="fill:#000000"
-           id="tspan4694">This is</tspan></tspan></text>
-    <text
-       sodipodi:linespacing="100%"
-       id="text3454"
-       y="523.26288"
-       x="234"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Komika Text Kaps;-inkscape-font-specification:Komika Text Kaps"
-       xml:space="preserve"><tspan
+         style="font-size:16.44807434px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#c92434;fill-opacity:1;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Komika Text Kaps;-inkscape-font-specification:Komika Text Kaps"
+         xml:space="preserve"><tspan
+           y="-236.92212"
+           x="93.681244"
+           id="tspan3452"
+           sodipodi:role="line"
+           style="font-size:21.14752579px;fill:#c92434;fill-opacity:1"><tspan
+             style="fill:#000000"
+             id="tspan4694">This is</tspan></tspan></text>
+      <text
+         sodipodi:linespacing="100%"
+         id="text3454"
          y="523.26288"
          x="234"
-         sodipodi:role="line"
-         id="tspan3470">She knows a thing or two about</tspan><tspan
-         y="537.26288"
-         x="234"
-         sodipodi:role="line"
-         id="tspan3859">computer hardware…</tspan></text>
-    <text
-       sodipodi:linespacing="100%"
-       id="text3458"
-       y="523.26288"
-       x="464"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Komika Text Kaps;-inkscape-font-specification:Komika Text Kaps"
-       xml:space="preserve"><tspan
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Komika Text Kaps;-inkscape-font-specification:Komika Text Kaps"
+         xml:space="preserve"><tspan
+           y="523.26288"
+           x="234"
+           sodipodi:role="line"
+           id="tspan3470">She knows a thing or two about</tspan><tspan
+           y="537.26288"
+           x="234"
+           sodipodi:role="line"
+           id="tspan3859">computer hardware…</tspan></text>
+      <text
+         sodipodi:linespacing="100%"
+         id="text3458"
          y="523.26288"
          x="464"
-         id="tspan3460"
-         sodipodi:role="line">…And she's pretty good</tspan><tspan
-         y="537.26288"
-         x="464"
-         sodipodi:role="line"
-         id="tspan3472">with software, too.</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Komika Text Kaps;-inkscape-font-specification:Komika Text Kaps"
-       x="55.872944"
-       y="571.7981"
-       id="text4834"
-       sodipodi:linespacing="100%"><tspan
-         style="font-size:12px"
-         id="tspan4838"
-         sodipodi:role="line"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Komika Text Kaps;-inkscape-font-specification:Komika Text Kaps"
+         xml:space="preserve"><tspan
+           y="523.26288"
+           x="464"
+           id="tspan3460"
+           sodipodi:role="line">…And she's pretty good</tspan><tspan
+           y="537.26288"
+           x="464"
+           sodipodi:role="line"
+           id="tspan3472">with software, too.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Komika Text Kaps;-inkscape-font-specification:Komika Text Kaps"
          x="55.872944"
-         y="571.7981">Hi!</tspan></text>
-    <text
-       sodipodi:linespacing="100%"
-       id="text3462"
-       y="562.72003"
-       x="266.96637"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Komika Text Kaps;-inkscape-font-specification:Komika Text Kaps"
-       xml:space="preserve"><tspan
+         y="571.7981"
+         id="text4834"
+         sodipodi:linespacing="100%"><tspan
+           style="font-size:12px"
+           id="tspan4838"
+           sodipodi:role="line"
+           x="55.872944"
+           y="571.7981">Hi!</tspan></text>
+      <text
+         sodipodi:linespacing="100%"
+         id="text3462"
          y="562.72003"
          x="266.96637"
-         sodipodi:role="line"
-         style="font-size:10px"
-         id="tspan4979">Who</tspan><tspan
-         y="572.72003"
-         x="266.96637"
-         sodipodi:role="line"
-         style="font-size:10px"
-         id="tspan4992">says this</tspan><tspan
-         y="582.72003"
-         x="266.96637"
-         sodipodi:role="line"
-         style="font-size:10px"
-         id="tspan4994">case won't take</tspan><tspan
-         y="592.72003"
-         x="266.96637"
-         sodipodi:role="line"
-         style="font-size:10px"
-         id="tspan4996">a full-length</tspan><tspan
-         y="602.72003"
-         x="266.96637"
-         sodipodi:role="line"
-         style="font-size:10px"
-         id="tspan4998">graphics</tspan><tspan
-         y="612.72003"
-         x="266.96637"
-         sodipodi:role="line"
-         style="font-size:10px"
-         id="tspan5000">card?</tspan></text>
-    <text
-       sodipodi:linespacing="100%"
-       id="text3466"
-       y="749.00336"
-       x="543.57214"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Komika Text Kaps;-inkscape-font-specification:Komika Text Kaps"
-       xml:space="preserve"><tspan
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Komika Text Kaps;-inkscape-font-specification:Komika Text Kaps"
+         xml:space="preserve"><tspan
+           y="562.72003"
+           x="266.96637"
+           sodipodi:role="line"
+           style="font-size:10px"
+           id="tspan4979">Who</tspan><tspan
+           y="572.72003"
+           x="266.96637"
+           sodipodi:role="line"
+           style="font-size:10px"
+           id="tspan4992">says this</tspan><tspan
+           y="582.72003"
+           x="266.96637"
+           sodipodi:role="line"
+           style="font-size:10px"
+           id="tspan4994">case won't take</tspan><tspan
+           y="592.72003"
+           x="266.96637"
+           sodipodi:role="line"
+           style="font-size:10px"
+           id="tspan4996">a full-length</tspan><tspan
+           y="602.72003"
+           x="266.96637"
+           sodipodi:role="line"
+           style="font-size:10px"
+           id="tspan4998">graphics</tspan><tspan
+           y="612.72003"
+           x="266.96637"
+           sodipodi:role="line"
+           style="font-size:10px"
+           id="tspan5000">card?</tspan></text>
+      <text
+         sodipodi:linespacing="100%"
+         id="text3466"
          y="749.00336"
          x="543.57214"
-         sodipodi:role="line"
-         id="tspan3478"
-         style="font-size:11px;text-align:center;line-height:100%;text-anchor:middle">(she's not joking -- she likes to write</tspan><tspan
-         y="760.00336"
-         x="543.57214"
-         sodipodi:role="line"
-         id="tspan3484"
-         style="font-size:11px;text-align:center;line-height:100%;text-anchor:middle">Gimp plugins in her spare time)</tspan></text>
-    <text
-       sodipodi:linespacing="100%"
-       id="text3492"
-       y="754.33002"
-       x="37.830605"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Komika Text Kaps;-inkscape-font-specification:Komika Text Kaps"
-       xml:space="preserve"><tspan
-         id="tspan3496"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Komika Text Kaps;-inkscape-font-specification:Komika Text Kaps"
+         xml:space="preserve"><tspan
+           y="749.00336"
+           x="543.57214"
+           sodipodi:role="line"
+           id="tspan3478"
+           style="font-size:11px;text-align:center;line-height:100%;text-anchor:middle">(she's not joking -- she likes to write</tspan><tspan
+           y="760.00336"
+           x="543.57214"
+           sodipodi:role="line"
+           id="tspan3484"
+           style="font-size:11px;text-align:center;line-height:100%;text-anchor:middle">Gimp plugins in her spare time)</tspan></text>
+      <text
+         sodipodi:linespacing="100%"
+         id="text3492"
          y="754.33002"
          x="37.830605"
-         sodipodi:role="line">She changes her style almost as often</tspan><tspan
-         y="768.33002"
-         x="37.830605"
-         sodipodi:role="line"
-         id="tspan3855">as she changes her Linux distribution</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:end;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill:#000000;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Komika Text Kaps;-inkscape-font-specification:Komika Text Kaps"
-       x="310.77631"
-       y="1042.3043"
-       id="text3518"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Komika Text Kaps;-inkscape-font-specification:Komika Text Kaps"
+         xml:space="preserve"><tspan
+           id="tspan3496"
+           y="754.33002"
+           x="37.830605"
+           sodipodi:role="line">She changes her style almost as often</tspan><tspan
+           y="768.33002"
+           x="37.830605"
+           sodipodi:role="line"
+           id="tspan3855">as she changes her Linux distribution</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:end;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill:#000000;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Komika Text Kaps;-inkscape-font-specification:Komika Text Kaps"
          x="310.77631"
          y="1042.3043"
-         id="tspan3520">…Which is pretty often</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text3500"
-       y="1028.9255"
-       x="357.84235"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Komika Text Kaps;-inkscape-font-specification:Komika Text Kaps"
-       xml:space="preserve"><tspan
-         id="tspan3502"
+         id="text3518"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="310.77631"
+           y="1042.3043"
+           id="tspan3520">…Which is pretty often</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3500"
          y="1028.9255"
          x="357.84235"
-         sodipodi:role="line"
-         style="font-size:11px;text-align:start;text-anchor:start">*Okay, <tspan
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Komika Text Kaps;-inkscape-font-specification:Komika Text Kaps"
+         xml:space="preserve"><tspan
+           id="tspan3502"
+           y="1028.9255"
+           x="357.84235"
+           sodipodi:role="line"
+           style="font-size:11px;text-align:start;text-anchor:start">*Okay, <tspan
    style="font-size:11px;font-style:italic;text-align:start;text-anchor:start;-inkscape-font-specification:Komika Text Kaps Italic"
    id="tspan3522">half</tspan> its profits -- but that's still pretty generous</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Komika Text Kaps;-inkscape-font-specification:Komika Text Kaps"
-       x="356.45068"
-       y="790.96082"
-       id="text3446"
-       sodipodi:linespacing="100%"><tspan
-         sodipodi:role="line"
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Komika Text Kaps;-inkscape-font-specification:Komika Text Kaps"
          x="356.45068"
          y="790.96082"
-         id="tspan3514">And she appears in <tspan
+         id="text3446"
+         sodipodi:linespacing="100%"><tspan
+           sodipodi:role="line"
+           x="356.45068"
+           y="790.96082"
+           id="tspan3514">And she appears in <tspan
    style="font-style:italic;font-weight:bold;-inkscape-font-specification:Komika Text Kaps Bold Italic"
    id="tspan3627">Linux Voice</tspan> -- a new</tspan><tspan
-         sodipodi:role="line"
-         x="356.45068"
-         y="805.03864"
-         id="tspan3607">Linux magazine, which gives its profits* <tspan
+           sodipodi:role="line"
+           x="356.45068"
+           y="805.03864"
+           id="tspan3607">Linux magazine, which gives its profits* <tspan
    style="font-style:italic;text-align:start;line-height:100%;text-anchor:start;-inkscape-font-specification:Komika Text Kaps Italic"
    id="tspan3609">and</tspan></tspan><tspan
-         sodipodi:role="line"
-         x="356.45068"
-         y="819.03864"
-         id="tspan3851">its content back to the community</tspan></text>
-    <text
-       transform="translate(0,768.89763)"
-       xml:space="preserve"
-       style="display:inline;font-size:12.25423145000000069px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#c92434;fill-opacity:1;stroke:#000000;stroke-width:0.50000000000000000;marker:none;visibility:visible;overflow:visible;enable-background:accumulate;font-family:Komika Text Kaps;-inkscape-font-specification:Komika Text Kaps"
-       x="155.82999"
-       y="-236.43785"
-       id="text4696"
-       sodipodi:linespacing="125%"><tspan
-         style="font-size:15.75544167px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#c92434;fill-opacity:1;stroke:#000000;stroke-width:0.5;font-family:Komika Axis;-inkscape-font-specification:Komika Axis"
-         sodipodi:role="line"
-         id="tspan4698"
+           sodipodi:role="line"
+           x="356.45068"
+           y="819.03864"
+           id="tspan3851">its content back to the community</tspan></text>
+      <text
+         transform="translate(0,768.89763)"
+         xml:space="preserve"
+         style="font-size:12.25423145px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#c92434;fill-opacity:1;stroke:#000000;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Komika Text Kaps;-inkscape-font-specification:Komika Text Kaps"
          x="155.82999"
          y="-236.43785"
-         dx="0 0.91901332 -1.2253511 0.91901332 0.61267555">ELVIE</tspan></text>
+         id="text4696"
+         sodipodi:linespacing="125%"><tspan
+           style="font-size:15.75544167px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#c92434;fill-opacity:1;stroke:#000000;stroke-width:0.5;font-family:Komika Axis;-inkscape-font-specification:Komika Axis"
+           sodipodi:role="line"
+           id="tspan4698"
+           x="155.82999"
+           y="-236.43785"
+           dx="0 0.91901332 -1.2253511 0.91901332 0.61267555">ELVIE</tspan></text>
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
