@@ -41,6 +41,6 @@ Blatant Plug
 
 On our website (http://www.peppertop.com) you can also find two other comic strips (both licensed CC-BY-NC-SA):
 
-* ''The Greys'' - A series of over 100 stand-alone comic strips, parodies of sci-fi and cult TV shows. Drawn using Inkscape, with the source SVG files available to download.
-* ''Monsters, Inked'' - Originally a newspaper strip, so a series of individual gags. There is an ongoing plot developing, though. Drawn by hand and then coloured, lettered and composited using Inkscape.
+* **The Greys** - A series of over 100 stand-alone comic strips, parodies of sci-fi and cult TV shows. Drawn using Inkscape, with the source SVG files available to download.
+* **Monsters, Inked** - Originally a newspaper strip, so a series of individual gags. There is an ongoing plot developing, though. Drawn by hand and then coloured, lettered and composited using Inkscape.
 
