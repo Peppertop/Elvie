@@ -12,3 +12,5 @@ List of Fonts
 * Komika Axis - Used for the main "Elvie" logo.
 * Komika Text - Used for the body text in our strips.
 
+* Atari Small - Used in the arcade machine screen in strip #002.
+
