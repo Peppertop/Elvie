@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="Elvie_000.svg"
-   inkscape:export-filename="/home/xav/Desktop/Elvie/Strips/Intro/intro_e.png"
+   inkscape:export-filename="/home/xav/Desktop/Elvie/git/Elvie/Elvie_000/Elvie_000_fr-FR.jpg.png"
    inkscape:export-xdpi="127"
    inkscape:export-ydpi="127">
   <title
@@ -263,6 +263,180 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccc" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4095-3">
+      <rect
+         style="color:#000000;fill:none;stroke:#00ff00;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4097-3"
+         width="87.146202"
+         height="54.969143"
+         x="242.66866"
+         y="971.5365" />
+    </clipPath>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3233-8"
+       inkscape:label="Bubble Shadow">
+      <feOffset
+         dx="-2"
+         dy="2"
+         id="feOffset3235-2"
+         in="SourceAlpha"
+         result="result1" />
+      <feColorMatrix
+         id="feColorMatrix3243-8"
+         result="result2"
+         type="matrix"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 -0.5 " />
+      <feMerge
+         id="feMerge3237-2">
+        <feMergeNode
+           inkscape:collect="always"
+           id="feMergeNode3239-0"
+           in="result2" />
+        <feMergeNode
+           inkscape:collect="always"
+           id="feMergeNode3241-2"
+           in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <linearGradient
+       gradientTransform="translate(0,768.89763)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient4676-2"
+       id="linearGradient4682-9"
+       x1="90"
+       y1="-243.03539"
+       x2="30"
+       y2="-263.0354"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4676-2">
+      <stop
+         style="stop-color:#ffff00;stop-opacity:1;"
+         offset="0"
+         id="stop4678-8" />
+      <stop
+         style="stop-color:#ffff00;stop-opacity:0;"
+         offset="1"
+         id="stop4680-7" />
+    </linearGradient>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3162"
+       inkscape:label="Bubble Shadow">
+      <feOffset
+         dx="-2"
+         dy="2"
+         id="feOffset3164"
+         in="SourceAlpha"
+         result="result1" />
+      <feColorMatrix
+         id="feColorMatrix3166"
+         result="result2"
+         type="matrix"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 -0.5 " />
+      <feMerge
+         id="feMerge3168">
+        <feMergeNode
+           inkscape:collect="always"
+           id="feMergeNode3170"
+           in="result2" />
+        <feMergeNode
+           inkscape:collect="always"
+           id="feMergeNode3172"
+           in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3174"
+       inkscape:label="Bubble Shadow">
+      <feOffset
+         dx="-2"
+         dy="2"
+         id="feOffset3176"
+         in="SourceAlpha"
+         result="result1" />
+      <feColorMatrix
+         id="feColorMatrix3178"
+         result="result2"
+         type="matrix"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 -0.5 " />
+      <feMerge
+         id="feMerge3180">
+        <feMergeNode
+           inkscape:collect="always"
+           id="feMergeNode3182"
+           in="result2" />
+        <feMergeNode
+           inkscape:collect="always"
+           id="feMergeNode3184"
+           in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3188"
+       inkscape:label="Bubble Shadow">
+      <feOffset
+         dx="-2"
+         dy="2"
+         id="feOffset3190"
+         in="SourceAlpha"
+         result="result1" />
+      <feColorMatrix
+         id="feColorMatrix3192"
+         result="result2"
+         type="matrix"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 -0.5 " />
+      <feMerge
+         id="feMerge3194">
+        <feMergeNode
+           inkscape:collect="always"
+           id="feMergeNode3196"
+           in="result2" />
+        <feMergeNode
+           inkscape:collect="always"
+           id="feMergeNode3198"
+           in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <linearGradient
+       gradientTransform="translate(0,485.4331)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient4684-2"
+       id="linearGradient4690-6"
+       x1="90"
+       y1="40.429138"
+       x2="60"
+       y2="40.429138"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4684-2">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4686-9" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4688-2" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3532">
+      <rect
+         y="532.16644"
+         x="551.03217"
+         height="81.017212"
+         width="85.997032"
+         id="rect3534"
+         style="color:#000000;fill:none;stroke:#00ff00;stroke-width:1.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -272,14 +446,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.3052778"
-     inkscape:cx="340.33787"
-     inkscape:cy="275.76694"
+     inkscape:cx="318.89764"
+     inkscape:cy="283.46457"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1148"
      inkscape:window-height="1004"
-     inkscape:window-x="328"
+     inkscape:window-x="149"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
      units="mm"
@@ -478,68 +652,68 @@ Elvie (in fourth image, dressed as a magician): Let's not mention my Mandrake da
     <image
        sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie/Elvie_000/Elvie_000_Panel_5.png"
        xlink:href="Elvie_000_Panel_5.png"
-       clip-path="url(#clipPath3142)"
-       width="77.653778"
-       height="125.42508"
-       id="image3174"
+       y="779.56006"
        x="203.25443"
-       y="779.56006" />
+       id="image3174"
+       height="125.42508"
+       width="77.653778"
+       clip-path="url(#clipPath3142)" />
     <image
        sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie/Elvie_000/Elvie_000_Panel_6.png"
        xlink:href="Elvie_000_Panel_6.png"
-       transform="translate(-6,126.54173)"
-       clip-path="url(#clipPath3161)"
-       width="71.252365"
-       height="130.62933"
-       id="image3158"
+       y="777.08118"
        x="68.215591"
-       y="777.08118" />
+       id="image3158"
+       height="130.62933"
+       width="71.252365"
+       clip-path="url(#clipPath3161)"
+       transform="translate(-6,126.54173)" />
     <image
        sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie/Elvie_000/Elvie_000_Panel_2.png"
        xlink:href="Elvie_000_Panel_2.png"
-       clip-path="url(#clipPath3141)"
-       width="268.84198"
-       height="262.189"
-       id="image3142"
+       y="544.41797"
        x="204.76987"
-       y="544.41797" />
+       id="image3142"
+       height="262.189"
+       width="268.84198"
+       clip-path="url(#clipPath3141)" />
     <image
        sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie/Elvie_000/Elvie_000_Panel_1.png"
        xlink:href="Elvie_000_Panel_1.png"
-       clip-path="none"
-       width="61.420635"
-       height="165.81044"
-       id="image3087"
+       y="556.90118"
        x="92.252007"
-       y="556.90118" />
+       id="image3087"
+       height="165.81044"
+       width="61.420635"
+       clip-path="none" />
     <image
        sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie/Elvie_000/Elvie_000_Panel_3.png"
        xlink:href="Elvie_000_Panel_3.png"
-       clip-path="url(#clipPath4043)"
-       width="222.73021"
-       height="328.96329"
-       id="image3109"
+       y="487.58612"
        x="431.61655"
-       y="487.58612" />
+       id="image3109"
+       height="328.96329"
+       width="222.73021"
+       clip-path="url(#clipPath4043)" />
     <image
        sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie/Elvie_000/Elvie_000_Panel_4.png"
        xlink:href="Elvie_000_Panel_4.png"
-       transform="matrix(0.90602727,0,0,0.90602727,10.003694,-39.896817)"
-       clip-path="url(#clipPath3125)"
-       width="76.425316"
-       height="156.87302"
-       id="image3102"
+       y="905.59985"
        x="63.887619"
-       y="905.59985" />
+       id="image3102"
+       height="156.87302"
+       width="76.425316"
+       clip-path="url(#clipPath3125)"
+       transform="matrix(0.90602727,0,0,0.90602727,10.003694,-39.896817)" />
     <image
        sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie/Elvie_000/Elvie_000_Panel_7.png"
        xlink:href="Elvie_000_Panel_7.png"
-       transform="scale(-1,1)"
-       width="140.18645"
-       height="140.18645"
-       id="image3189"
+       y="900.71014"
        x="-321.9447"
-       y="900.71014" />
+       id="image3189"
+       height="140.18645"
+       width="140.18645"
+       transform="scale(-1,1)" />
     <g
        id="g4192"
        transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,274.66734,-88.147051)">
@@ -553,12 +727,12 @@ Elvie (in fourth image, dressed as a magician): Let's not mention my Mandrake da
       <image
          sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie/Elvie_000/Elvie_000_Panel_8.png"
          xlink:href="Elvie_000_Panel_8.png"
-         style="display:inline"
-         y="831.10748"
-         x="405.01776"
-         id="image4125-3"
+         width="128.23904"
          height="181.39621"
-         width="128.23904" />
+         id="image4125-3"
+         x="405.01776"
+         y="831.10748"
+         style="display:inline" />
     </g>
     <g
        id="g4266"
@@ -624,6 +798,356 @@ Elvie (in fourth image, dressed as a magician): Let's not mention my Mandrake da
      inkscape:label="Text"
      transform="translate(0,-485.4331)"
      style="display:inline">
+    <g
+       inkscape:groupmode="layer"
+       id="layer6"
+       inkscape:label="fr-FR"
+       style="display:none">
+      <g
+         transform="translate(0,-1.8164062e-6)"
+         style="display:inline"
+         id="g4087-0"
+         clip-path="url(#clipPath4095-3)">
+        <path
+           id="path4950-0"
+           transform="translate(0,485.4331)"
+           d="m 303.625,489.53125 c -16.33486,0 -30.33843,7.51389 -36.34375,18.25 l -19.28125,-12 16.375,20.65625 0,0.0312 c -0.13206,0.99736 -0.21875,2.00747 -0.21875,3.03125 0,16.55099 17.66362,29.96875 39.46875,29.96875 21.80513,0 39.5,-13.41776 39.5,-29.96875 0,-16.55099 -17.69487,-29.96875 -39.5,-29.96875 z"
+           clip-path="none"
+           style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter3233-8);enable-background:accumulate"
+           inkscape:connector-curvature="0" />
+        <text
+           sodipodi:linespacing="100%"
+           id="text4952-1"
+           y="990.57526"
+           x="297.849"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Komika Text Kaps;-inkscape-font-specification:Komika Text Kaps"
+           xml:space="preserve"><tspan
+             y="990.57526"
+             x="297.849"
+             sodipodi:role="line"
+             style="font-size:10px"
+             id="tspan3565">Il vaut</tspan><tspan
+             y="1000.5753"
+             x="297.849"
+             sodipodi:role="line"
+             style="font-size:10px"
+             id="tspan3563">ne rien dire</tspan><tspan
+             y="1010.5753"
+             x="297.849"
+             sodipodi:role="line"
+             style="font-size:10px"
+             id="tspan3573">de ma période</tspan><tspan
+             y="1020.5753"
+             x="297.849"
+             sodipodi:role="line"
+             style="font-size:10px"
+             id="tspan3575">Mandrake.</tspan></text>
+      </g>
+      <path
+         style="color:#000000;fill:url(#linearGradient4682-9);fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 39.875,505.6206 c -11.08,0 -20,8.92 -20,20 l 0,20.25 190.625,0 0,-20.25 c 0,-11.08 -8.92,-20 -20,-20 l -9.90625,0 -130.8125,0 z"
+         id="path3903-0"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ssccssccs" />
+      <path
+         style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter3233-8);enable-background:accumulate"
+         d="m 54.78125,554.15185 c -11.954134,0 -23.625,6.27069 -23.625,14.03125 0,7.76056 11.670866,14.0625 23.625,14.0625 4.286426,0 10.263028,-0.82328 13.625,-2.21875 l 24.5,6.125 -18.1875,-10.0625 c 2.353011,-2.24856 3.71875,-4.98302 3.71875,-7.90625 0,-7.76056 -11.702116,-14.03125 -23.65625,-14.03125 z"
+         id="path4832-2"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ssscccss" />
+      <path
+         style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter3233-8);enable-background:accumulate"
+         clip-path="none"
+         d="m 266.65625,550.4956 c -23.16079,0 -42.125,15.70785 -42.125,35.09375 0,19.3859 23.56202,35.125 42.125,35.125 18.56297,0 33.79935,-9.16726 39.40625,-22.125 l 29.78125,2.3125 -27.25,-11.625 c 0.13698,-1.21004 0.1875,-2.44408 0.1875,-3.6875 0,-19.3859 -18.96421,-35.09375 -42.125,-35.09375 z"
+         id="path4770-0"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="zszcccsz" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3092-3"
+         y="1047.5664"
+         x="569.07684"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Komika Axis;-inkscape-font-specification:Komika Text Kaps"
+         xml:space="preserve"><tspan
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;stroke:none;font-family:Komika Text Kaps;-inkscape-font-specification:Komika Text Kaps"
+           y="1047.5664"
+           x="569.07684"
+           id="tspan3094-7"
+           sodipodi:role="line"
+           dx="0 0.75761443 0.75761443">WWW.PEPPERTOP.COM</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Komika Axis;-inkscape-font-specification:Komika Axis"
+         x="381.07681"
+         y="1047.5664"
+         id="text3096-0"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3098-6"
+           x="381.07681"
+           y="1047.5664"
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;stroke:none;font-family:Komika Text Kaps;-inkscape-font-specification:Komika Text Kaps">CC-BY-SA</tspan></text>
+      <path
+         style="color:#000000;fill:#ffff00;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 340.03125,1015.5893 c 0.38997,11.2927 9.57767,20.2813 20.96875,20.2813 l 255.03125,0 c 11.39108,0 20.61003,-8.9886 21,-20.2813 l -0.009,-2 -296.87964,0 z"
+         id="rect4719-2"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csscccc" />
+      <path
+         style="color:#000000;fill:#ffff00;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 41,735.8706 c -11.640612,0 -21,9.35939 -21,21 l 0,19.78125 310,0 0,-19.78125 c 0,-11.64061 -9.35939,-21 -21,-21 l -268,0 z"
+         id="rect4711-8"
+         inkscape:connector-curvature="0" />
+      <path
+         style="color:#000000;fill:#ffff00;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 450,731.6206 0,14.90625 c 0,11.63835 9.36165,21 21,21 l 145.0625,0 c 11.63835,0 21,-9.36165 21,-21 l 0,-14.90625 z"
+         id="rect4702-0"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csssscc" />
+      <path
+         style="color:#000000;fill:#ffff00;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 361,775.8706 c -11.64061,0 -21,9.35939 -21,21 l 0,28.8125 297.0625,0 0,-28.8125 c 0,-11.64061 -9.39064,-21 -21.03125,-21 l -255.03125,0 z"
+         id="rect3869-0"
+         inkscape:connector-curvature="0" />
+      <path
+         style="color:#000000;fill:#ffff00;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 20,1026.6206 0,3.6562 c 0,11.6407 9.359388,21.0001 21,21.0001 l 268,0 c 11.64061,0 21,-9.3594 21,-21.0001 l 0,-3.6562 -310,0 z"
+         id="rect3867-0"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="translate(0,-1.8164062e-6)"
+         style="display:inline"
+         id="g4074-0"
+         clip-path="url(#clipPath3532)">
+        <path
+           id="path4824-3"
+           transform="translate(0,485.4331)"
+           d="m 606.6875,49.75 c -20.77178,0 -41.59375,11.023326 -41.59375,24.59375 0,15.191574 20.1012,24.06855 40.25,24.53125 L 595.875,119.90625 616,98.125 c 16.26953,-2.706213 32.3125,-12.309786 32.3125,-23.78125 0,-13.570424 -20.85322,-24.59375 -41.625,-24.59375 z"
+           style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter3233-8);enable-background:accumulate"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="sscccss" />
+        <text
+           sodipodi:linespacing="100%"
+           id="text4826-1"
+           y="559.15717"
+           x="604.03204"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Komika Text Kaps;-inkscape-font-specification:Komika Text Kaps"
+           xml:space="preserve"><tspan
+             y="559.15717"
+             x="604.03204"
+             sodipodi:role="line"
+             id="tspan4830-3"
+             style="font-size:12px">Je maîtrise</tspan><tspan
+             y="571.15717"
+             x="604.03204"
+             sodipodi:role="line"
+             style="font-size:12px"
+             id="tspan3529">le script-fu</tspan></text>
+      </g>
+      <path
+         style="color:#000000;fill:#ffff00;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 471,505.8706 c -11.63835,0 -21,9.36165 -21,21 l 0,19 187.0625,0 0,-19 c 0,-11.63835 -9.36165,-21 -21,-21 l -145.0625,0 z"
+         id="rect3865-0"
+         inkscape:connector-curvature="0" />
+      <path
+         style="color:#000000;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 241.375,505.65185 c -11.64061,0 -21,9.35939 -21,21 l 0,19.21875 219.625,0 0,-19.21875 c 0,-11.64061 -9.35939,-21 -21,-21 l -58,0 -119.625,0 z"
+         id="path3863-9"
+         inkscape:connector-curvature="0" />
+      <path
+         style="color:#000000;fill:none;stroke:url(#linearGradient4690-6);stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 67.875,545.8706 142.625,0 0,-20.25 c 0,-11.08 -8.92,-20 -20,-20 l -80.71875,0"
+         id="path3861-3"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccssc" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3450-6"
+         y="531.97552"
+         x="107.68124"
+         style="font-size:16.44807434px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#c92434;fill-opacity:1;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Komika Text Kaps;-inkscape-font-specification:Komika Text Kaps"
+         xml:space="preserve"><tspan
+           y="531.97552"
+           x="107.68124"
+           id="tspan3452-4"
+           sodipodi:role="line"
+           style="font-size:21.14752579px;fill:#c92434;fill-opacity:1"><tspan
+             style="fill:#000000"
+             id="tspan4694-2">Voici</tspan></tspan></text>
+      <text
+         sodipodi:linespacing="100%"
+         id="text3454-0"
+         y="523.26288"
+         x="234"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Komika Text Kaps;-inkscape-font-specification:Komika Text Kaps"
+         xml:space="preserve"><tspan
+           y="523.26288"
+           x="234"
+           sodipodi:role="line"
+           id="tspan3859-5">Elle en connaît un rayon en</tspan><tspan
+           y="537.26288"
+           x="234"
+           sodipodi:role="line"
+           id="tspan3475">matière de hardware…</tspan></text>
+      <text
+         sodipodi:linespacing="100%"
+         id="text3458-1"
+         y="523.26288"
+         x="464"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Komika Text Kaps;-inkscape-font-specification:Komika Text Kaps"
+         xml:space="preserve"><tspan
+           y="523.26288"
+           x="464"
+           sodipodi:role="line"
+           id="tspan3521">…et elle touche sa bille</tspan><tspan
+           y="537.26288"
+           x="464"
+           sodipodi:role="line"
+           id="tspan3525">en programmation.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Komika Text Kaps;-inkscape-font-specification:Komika Text Kaps"
+         x="54.340702"
+         y="571.7981"
+         id="text4834-3"
+         sodipodi:linespacing="100%"><tspan
+           style="font-size:12px"
+           id="tspan4838-4"
+           sodipodi:role="line"
+           x="54.340702"
+           y="571.7981">Salut !</tspan></text>
+      <text
+         sodipodi:linespacing="100%"
+         id="text3462-7"
+         y="562.72003"
+         x="265.73248"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Komika Text Kaps;-inkscape-font-specification:Komika Text Kaps"
+         xml:space="preserve"><tspan
+           y="562.72003"
+           x="265.73248"
+           sodipodi:role="line"
+           style="font-size:10px"
+           id="tspan5000-1">Qui a dit</tspan><tspan
+           y="572.72003"
+           x="265.73248"
+           sodipodi:role="line"
+           style="font-size:10px"
+           id="tspan3499">qu'une carte</tspan><tspan
+           y="582.72003"
+           x="265.73248"
+           sodipodi:role="line"
+           style="font-size:10px"
+           id="tspan3505">graphique grand</tspan><tspan
+           y="592.72003"
+           x="265.73248"
+           sodipodi:role="line"
+           style="font-size:10px"
+           id="tspan3509">format n'entrerait</tspan><tspan
+           y="602.72003"
+           x="265.73248"
+           sodipodi:role="line"
+           style="font-size:10px"
+           id="tspan3513">pas dans ce</tspan><tspan
+           y="612.72003"
+           x="265.73248"
+           sodipodi:role="line"
+           style="font-size:10px"
+           id="tspan3517">boîtier ?</tspan></text>
+      <text
+         sodipodi:linespacing="100%"
+         id="text3466-8"
+         y="743.00336"
+         x="543.18909"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;baseline-shift:baseline;color:#000000;fill:#000000;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Komika Text Kaps;-inkscape-font-specification:Komika Text Kaps"
+         xml:space="preserve"><tspan
+           y="743.00336"
+           x="543.18909"
+           sodipodi:role="line"
+           style="font-size:10px;text-align:center;line-height:100%;text-anchor:middle"
+           id="tspan3538">Ce n'est pas une blague : elle écrit</tspan><tspan
+           y="753.00336"
+           x="543.18909"
+           sodipodi:role="line"
+           style="font-size:10px;text-align:center;line-height:100%;text-anchor:middle"
+           id="tspan3542">des greffons pour GIMP</tspan><tspan
+           y="763.00336"
+           x="543.18909"
+           sodipodi:role="line"
+           style="font-size:10px;text-align:center;line-height:100%;text-anchor:middle"
+           id="tspan3548">à ses heures perdues</tspan></text>
+      <text
+         sodipodi:linespacing="100%"
+         id="text3492-9"
+         y="754.33002"
+         x="37.830605"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Komika Text Kaps;-inkscape-font-specification:Komika Text Kaps"
+         xml:space="preserve"><tspan
+           y="754.33002"
+           x="37.830605"
+           sodipodi:role="line"
+           id="tspan3855-4">Elle change de look aussi souvent</tspan><tspan
+           y="768.33002"
+           x="37.830605"
+           sodipodi:role="line"
+           id="tspan3552">que de distribution</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:end;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:end;baseline-shift:baseline;color:#000000;fill:#000000;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Komika Text Kaps;-inkscape-font-specification:Komika Text Kaps"
+         x="310.77631"
+         y="1042.3043"
+         id="text3518-4"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="310.77631"
+           y="1042.3043"
+           id="tspan3520-0">…c'est à dire très souvent !</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3500-9"
+         y="1026.6271"
+         x="346.35056"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Komika Text Kaps;-inkscape-font-specification:Komika Text Kaps"
+         xml:space="preserve"><tspan
+           id="tspan3502-7"
+           y="1026.6271"
+           x="346.35056"
+           sodipodi:role="line"
+           style="font-size:10px;text-align:start;text-anchor:start">*bon d'accord, la moitié de ses profits, mais c'est déjà très généreux</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Komika Text Kaps;-inkscape-font-specification:Komika Text Kaps"
+         x="356.45068"
+         y="790.96082"
+         id="text3446-0"
+         sodipodi:linespacing="100%"><tspan
+           sodipodi:role="line"
+           x="356.45068"
+           y="790.96082"
+           id="tspan3851-1">Et on peut la retrouver dans <tspan
+   style="font-weight:bold"
+   id="tspan3601">Linux Voice</tspan>,</tspan><tspan
+           sodipodi:role="line"
+           x="356.45068"
+           y="805.03864"
+           id="tspan3595">un magazine qui reverse ses profits*</tspan><tspan
+           sodipodi:role="line"
+           x="356.45068"
+           y="819.03864"
+           id="tspan3599">(et ses contenus) à la communauté du libre</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:12.25423145px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#c92434;fill-opacity:1;stroke:#000000;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Komika Text Kaps;-inkscape-font-specification:Komika Text Kaps"
+         x="155.82999"
+         y="532.45978"
+         id="text4696-0"
+         sodipodi:linespacing="125%"><tspan
+           style="font-size:15.75544167px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#c92434;fill-opacity:1;stroke:#000000;stroke-width:0.5;font-family:Komika Axis;-inkscape-font-specification:Komika Axis"
+           sodipodi:role="line"
+           id="tspan4698-2"
+           x="155.82999"
+           y="532.45978"
+           dx="0 0.91901332 -1.2253511 0.91901332 0.61267555">ELVIE</tspan></text>
+    </g>
     <g
        inkscape:groupmode="layer"
        id="layer5"
