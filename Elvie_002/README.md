@@ -14,6 +14,6 @@ hopper_logo_pixellated.png - The game logo, created using the "MgOpen Modata" fo
 panel_n.png                - A PNG image, exported from an ORA file using The GIMP, for the main drawing in panel "n".
 Elvie_002.svg              - The Inkscape SVG file that combines the panel images with frames and text to create the comic.
 Elvie_002_en-GB.jpg        - A PNG export of the final Inkscape file, converted to JPEG format for use on our website (British English)
-
+Elvie_002_fr-FR.jpg        - A French translation of the comic, created by Sam.
 
 
