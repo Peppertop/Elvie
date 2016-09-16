@@ -166,7 +166,7 @@
      inkscape:cx="318.89765"
      inkscape:cy="115.48808"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1148"
      inkscape:window-height="1004"
@@ -279,30 +279,32 @@ Sign: Press crtl-alt-del: £5
      transform="translate(0,-768.89763)"
      style="display:inline">
     <image
-       y="786.86609"
-       x="418.77963"
-       id="image3132"
-       xlink:href="file:///home/xav/Desktop/Elvie/Strips/019_LV%23019/panel_3.png"
-       height="250.32957"
+       sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie/Elvie_019/019_panel_3.png"
+       xlink:href="019_panel_3.png"
+       clip-path="url(#clipPath3137)"
        width="262.40869"
-       clip-path="url(#clipPath3137)" />
+       height="250.32957"
+       id="image3132"
+       x="418.77963"
+       y="786.86609" />
     <image
-       y="784.35443"
-       x="192.59427"
-       id="image3114"
-       xlink:href="file:///home/xav/Desktop/Elvie/Strips/019_LV%23019/panel_2.png"
-       height="300.42795"
+       sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie/Elvie_019/019_panel_2.png"
+       xlink:href="019_panel_2.png"
+       clip-path="url(#clipPath3117)"
        width="248.76201"
-       clip-path="url(#clipPath3117)" />
+       height="300.42795"
+       id="image3114"
+       x="192.59427"
+       y="784.35443" />
     <image
-       sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie/Elvie_019/panel_1.png"
-       xlink:href="panel_1.png"
-       y="754.91119"
-       x="-2.3553154"
-       id="image3105"
-       height="335.43439"
+       sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie/Elvie_019/019_panel_1.png"
+       xlink:href="019_panel_1.png"
+       mask="url(#mask3931)"
        width="250.02858"
-       mask="url(#mask3931)" />
+       height="335.43439"
+       id="image3105"
+       x="-2.3553154"
+       y="754.91119" />
     <text
        sodipodi:linespacing="125%"
        id="text3092"
