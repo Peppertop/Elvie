@@ -164,8 +164,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.1872222"
-     inkscape:cx="318.89764"
-     inkscape:cy="141.73228"
+     inkscape:cx="319.81204"
+     inkscape:cy="139.90348"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="false"
@@ -236,6 +236,7 @@ Elvie: But I think the automated shower might have been a step too far!
 (Control unit, styled like HAL: Elvie, Elvie, give me your answer do…)
 (Loofah holder, casting a shadow like a knife on the shower curtain, reminiscent of Psycho: Exfoliate!!! Exfoliate!!!)
 </dc:description>
+        <dc:date>2015-11-27</dc:date>
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
@@ -276,21 +277,21 @@ Elvie: But I think the automated shower might have been a step too far!
     <image
        sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie/Elvie_023/023_panel_4.png"
        xlink:href="023_panel_4.png"
-       clip-path="url(#clipPath3930)"
-       width="293.36505"
-       height="251.15053"
-       id="image3927"
+       y="786.98102"
        x="373.13846"
-       y="786.98102" />
+       id="image3927"
+       height="251.15053"
+       width="293.36505"
+       clip-path="url(#clipPath3930)" />
     <image
        sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie/Elvie_023/023_panel_1.png"
        xlink:href="023_panel_1.png"
-       mask="url(#mask3883)"
-       width="298.9277"
-       height="271.47015"
-       id="image3088"
+       y="781.24158"
        x="-31.122337"
-       y="781.24158" />
+       id="image3088"
+       height="271.47015"
+       width="298.9277"
+       mask="url(#mask3883)" />
     <text
        id="text3092"
        y="1049.1158"
@@ -317,21 +318,21 @@ Elvie: But I think the automated shower might have been a step too far!
     <image
        sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie/Elvie_023/023_panel_3.png"
        xlink:href="023_panel_3.png"
-       clip-path="url(#clipPath3095)"
-       width="172.93764"
-       height="134.99585"
-       id="image3092"
+       y="918.40277"
        x="195.77708"
-       y="918.40277" />
+       id="image3092"
+       height="134.99585"
+       width="172.93764"
+       clip-path="url(#clipPath3095)" />
     <image
        sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie/Elvie_023/023_panel_2.png"
        xlink:href="023_panel_2.png"
-       clip-path="url(#clipPath3914)"
-       width="182.47076"
-       height="145.40892"
-       id="image3911"
+       y="782.20685"
        x="190.30573"
-       y="782.20685" />
+       id="image3911"
+       height="145.40892"
+       width="182.47076"
+       clip-path="url(#clipPath3914)" />
   </g>
   <g
      inkscape:groupmode="layer"
