@@ -174,8 +174,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0727654"
-     inkscape:cx="319.86253"
-     inkscape:cy="139.80249"
+     inkscape:cx="320.82742"
+     inkscape:cy="137.8727"
      inkscape:document-units="px"
      inkscape:current-layer="g3265"
      showgrid="false"
@@ -215,7 +215,7 @@ Mark Crutch</dc:title>
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
         <dc:date>2016-04-14</dc:date>
-        <dc:coverage>Linux, Windows, Ubuntu, Piracy, Free Software</dc:coverage>
+        <dc:coverage></dc:coverage>
         <dc:description>[Panel 1]
 Elvie: For years I've been trying to get people to install Linux, with little success.
 
@@ -224,6 +224,15 @@ But now I've hit on a method that seems to work with a lot of Windows users…
 [Panel 2: Elvie is working at &quot;PC Universe&quot;, serving a queue of furtive looking customers. The desk has a label that reads 'Ask us about &quot;Free&quot; software']
 
 Elvie (whispering): Shhh… Don't tell anyone else, but it's a *pirated* copy of Ubuntu!</dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Linux</rdf:li>
+            <rdf:li>Windows</rdf:li>
+            <rdf:li>Ubuntu</rdf:li>
+            <rdf:li>Piracy</rdf:li>
+            <rdf:li>Free Software</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
@@ -264,12 +273,12 @@ Elvie (whispering): Shhh… Don't tell anyone else, but it's a *pirated* copy of
     <image
        sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie/Elvie_027/027_panel_2.png"
        xlink:href="027_panel_2.png"
-       y="782.87341"
-       x="258.57886"
-       id="image3224"
-       height="257.65634"
+       clip-path="url(#clipPath3227)"
        width="400.44092"
-       clip-path="url(#clipPath3227)" />
+       height="257.65634"
+       id="image3224"
+       x="258.57886"
+       y="782.87341" />
     <text
        id="text3092"
        y="1049.1158"
@@ -318,13 +327,13 @@ Elvie (whispering): Shhh… Don't tell anyone else, but it's a *pirated* copy of
     <image
        sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie/Elvie_027/027_panel_1.png"
        xlink:href="027_panel_1.png"
-       y="733.21753"
-       x="-5.6814456"
-       id="image3274"
-       height="319.86508"
-       width="307.29895"
+       style="stroke:none;fill-opacity:1;fill:url(#linearGradient3987)"
        mask="url(#mask3997)"
-       style="stroke:none;fill-opacity:1;fill:url(#linearGradient3987)" />
+       width="307.29895"
+       height="319.86508"
+       id="image3274"
+       x="-5.6814456"
+       y="733.21753" />
     <g
        style="display:inline"
        id="g3388"
