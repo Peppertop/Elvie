@@ -14,7 +14,7 @@
    height="302.36221"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 unknown"
+   inkscape:version="0.92.2 (unknown)"
    sodipodi:docname="Elvie_028.svg"
    inkscape:export-filename="/home/xav/Desktop/Elvie/git/Elvie/Elvie_028/Elvie_028_en_GB.png"
    inkscape:export-xdpi="600.07501"
@@ -128,9 +128,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.6384568"
-     inkscape:cx="318.89764"
-     inkscape:cy="141.73228"
+     inkscape:zoom="2.0505207"
+     inkscape:cx="340.1575"
+     inkscape:cy="151.18111"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -159,7 +159,7 @@
           </cc:Agent>
         </dc:creator>
         <dc:identifier>http://peppertop.com/elvie/comic/elvie-028/</dc:identifier>
-        <dc:source>http://peppertop.com/elvie/comic/elvie-027/</dc:source>
+        <dc:source>http://peppertop.com/elvie/comic/elvie-028/</dc:source>
         <dc:language>en-GB</dc:language>
         <dc:subject>
           <rdf:Bag>
@@ -228,31 +228,31 @@ Mark Crutch</dc:title>
     <image
        sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie/Elvie_028/028_panel_3.png"
        xlink:href="028_panel_3.png"
-       y="782.79205"
-       x="444.23978"
-       id="image3085"
-       height="280.88657"
-       width="254.13547"
+       clip-path="url(#clipPath3095)"
        style="opacity:1"
-       clip-path="url(#clipPath3095)" />
+       width="254.13547"
+       height="280.88657"
+       id="image3085"
+       x="444.23978"
+       y="782.79205" />
     <image
        sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie/Elvie_028/028_panel_2.png"
        xlink:href="028_panel_2.png"
-       y="784.65448"
-       x="237.08578"
-       id="image3070"
-       height="275.41492"
+       clip-path="url(#clipPath3091)"
        width="249.68031"
-       clip-path="url(#clipPath3091)" />
+       height="275.41492"
+       id="image3070"
+       x="237.08578"
+       y="784.65448" />
     <image
        sodipodi:absref="/home/xav/Desktop/Elvie/git/Elvie/Elvie_028/028_panel_1.png"
        xlink:href="028_panel_1.png"
-       y="783.3089"
-       x="14.724816"
-       id="image3053"
-       height="276.22064"
+       mask="url(#mask3056)"
        width="256.36905"
-       mask="url(#mask3056)" />
+       height="276.22064"
+       id="image3053"
+       x="14.724816"
+       y="783.3089" />
     <text
        id="text3092"
        y="1049.1158"
