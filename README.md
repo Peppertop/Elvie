@@ -1,7 +1,12 @@
 Elvie
 =====
 
-'Elvie' is a comic strip that appears in Linux Voice magazine (http://www.linuxvoice.com). All our original files are licensed as CC-BY-SA (see below for more details about derivative works). Some third party support files (such as fonts) may be under other licenses. Please check the README in the relevant directory for more details.
+'Elvie' is a comic strip that appeared in Linux Voice magazine (http://www.linuxvoice.com), and currently appears in Linux (Pro) Magazine (http://www.linux-magazine.com/). This repository holds the first 33 cartoons - one prequel, and all of the strips from Linux Voice. For the strips from Linux (Pro) Magazine, please see our other repository:
+
+https://github.com/Peppertop/Elvie-2
+
+
+All our original files are licensed as CC-BY-SA (see below for more details about derivative works). Some third party support files (such as fonts) may be under other licenses. Please check the README in the relevant directory for more details.
 
 This repository contains the source files used to create these comic strips. Each comic is in its own subdirectory and contains the following file types:
 
