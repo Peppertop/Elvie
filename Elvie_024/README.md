@@ -1,3 +1,5 @@
+![Elvie comic strip #024](Elvie_024_en-GB.jpg)
+
 Elvie #024
 ==========
 This strip appeared in issue #24 of Linux Voice magazine, which went to print shortly after The MagPi had released issue #40

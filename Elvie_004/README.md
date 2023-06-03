@@ -1,3 +1,5 @@
+![Elvie comic strip #004](Elvie_004_en-GB.jpg)
+
 Elvie #004
 ==========
 This Elvie strip appeared in issue #4 of 'Linux Voice' magazine, which included an article on Ubuntu remixes.

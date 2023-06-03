@@ -1,3 +1,5 @@
+![Elvie comic strip #001](Elvie_001_en-GB.jpg)
+
 Elvie #001
 ==========
 This is the first Elvie strip that was created (which is why the character looks a little different to her appearance in later strips). This strip appeared in issue #1 of 'Linux Voice' magazine, with the joke tailored accordingly.

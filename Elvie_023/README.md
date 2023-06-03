@@ -1,3 +1,5 @@
+![Elvie comic strip #023](Elvie_023_en-GB.jpg)
+
 Elvie #023
 ==========
 This strip appeared in issue #23 of Linux Voice magazine, which lead with an article about turning your house into a smart home.

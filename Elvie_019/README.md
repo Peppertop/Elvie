@@ -1,3 +1,5 @@
+![Elvie comic strip #019](Elvie_019_en-GB.jpg)
+
 Elvie #019
 ==========
 This strip appeared in issue #19 of Linux Voice magazine.

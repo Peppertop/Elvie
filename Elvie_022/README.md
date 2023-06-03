@@ -1,3 +1,5 @@
+![Elvie comic strip #022](Elvie_022_en-GB.jpg)
+
 Elvie #022
 ==========
 This strip appeared in issue #22 of Linux Voice magazine, which reached subscribers shortly before

@@ -1,3 +1,5 @@
+![Elvie comic strip #007](Elvie_007_en-GB.jpg)
+
 Elvie #007
 ==========
 This Elvie strip appeared in issue #07 of 'Linux Voice' magazine, which featured an article comparing several different distros in an effort to find the best one.

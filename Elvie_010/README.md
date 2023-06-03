@@ -1,3 +1,5 @@
+![Elvie comic strip #010](Elvie_010_en-GB.jpg)
+
 Elvie #010
 ==========
 This strip appeared in issue #10 of Linux Voice magazine, which featured an article about Linux vs Windows

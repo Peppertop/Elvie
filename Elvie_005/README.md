@@ -1,3 +1,5 @@
+![Elvie comic strip #005](Elvie_005_en-GB.jpg)
+
 Elvie #005
 ==========
 This Elvie strip appeared in issue #5 of 'Linux Voice' magazine, which included an article on Nethack.

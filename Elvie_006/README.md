@@ -1,3 +1,5 @@
+![Elvie comic strip #006](Elvie_006_en-GB.jpg)
+
 Elvie #006
 ==========
 This Elvie strip appeared in issue #6 of 'Linux Voice' magazine, which included an article on making a face-tracking NERF gun launcher.

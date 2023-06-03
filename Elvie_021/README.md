@@ -1,3 +1,5 @@
+![Elvie comic strip #021](Elvie_021_en-GB.jpg)
+
 Elvie #021
 ==========
 This strip appeared in issue #21 of Linux Voice magazine, which featured a group test of educational software.

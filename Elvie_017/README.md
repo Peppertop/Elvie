@@ -1,3 +1,5 @@
+![Elvie comic strip #017](Elvie_017_en-GB.jpg)
+
 Elvie #017
 ==========
 This strip appeared in issue #17 of Linux Voice magazine, which included an article about privacy and encryption.
