@@ -1,3 +1,5 @@
+![Elvie comic strip #000](Elvie_000_en-GB.jpg)
+
 Elvie #000
 ==========
 This is a prequel comic to introduce the character of Elvie. This strip appeared on our website, but not in 'Linux Voice'.

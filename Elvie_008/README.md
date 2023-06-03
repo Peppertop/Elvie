@@ -1,3 +1,5 @@
+![Elvie comic strip #008](Elvie_008_en-GB.jpg)
+
 Elvie #008
 ==========
 This Elvie strip appeared in issue #08 of 'Linux Voice' magazine, which featured an article about building a mail server.

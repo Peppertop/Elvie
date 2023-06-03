@@ -1,3 +1,5 @@
+![Elvie comic strip #002](Elvie_002_en-GB.jpg)
+
 Elvie #002
 ==========
 This Elvie strip appeared in issue #2 of 'Linux Voice' magazine, which included an article on building an arcade machine using a Raspberry Pi, and an article about Grace Hopper. These two articles were combined to form the basis of this strip.

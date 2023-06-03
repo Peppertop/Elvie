@@ -1,3 +1,5 @@
+![Elvie comic strip #009](Elvie_009_en-GB.jpg)
+
 Elvie #009
 ==========
 This Elvie strip appeared in issue #09 of 'Linux Voice' magazine, which featured an interview with Tim O'Reilly.

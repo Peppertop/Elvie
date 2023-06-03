@@ -1,3 +1,5 @@
+![Elvie comic strip #018](Elvie_018_en-GB.jpg)
+
 Elvie #018
 ==========
 This strip appeared in issue #18 of Linux Voice magazine, which included a review of the Meizu MX4 Ubuntu phone,

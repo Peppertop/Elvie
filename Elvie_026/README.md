@@ -1,3 +1,5 @@
+![Elvie comic strip #026](Elvie_026_en-GB.jpg)
+
 Elvie #026
 ==========
 This strip appeared in issue #26 of Linux Voice magazine, which featured the third and final instalment of

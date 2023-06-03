@@ -1,3 +1,5 @@
+![Elvie comic strip #015](Elvie_015_en-GB.jpg)
+
 Elvie #015
 ==========
 This strip appeared in issue #15 of Linux Voice magazine, which included an interview with Larry Wall.

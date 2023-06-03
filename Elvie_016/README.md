@@ -1,3 +1,5 @@
+![Elvie comic strip #016](Elvie_016_en-GB.jpg)
+
 Elvie #016
 ==========
 This strip appeared in issue #16 of Linux Voice magazine, which included an article about Linux (and Unix) in the movies,

@@ -1,3 +1,5 @@
+![Elvie comic strip #003](Elvie_003_en-GB.jpg)
+
 Elvie #003
 ==========
 This Elvie strip appeared in issue #3 of 'Linux Voice' magazine, which included an article on command line vs graphical interfaces.
